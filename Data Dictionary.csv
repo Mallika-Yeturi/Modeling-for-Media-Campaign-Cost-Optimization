@@ -1,0 +1,40 @@
+SL.No	Variable Name	Description
+1	Food category	food type
+2	Food department	food department which the food type belongs
+3	Food family	food family of food it belongs
+4	Store sales	store sales in million dollars
+5	Store cost	store cost or expense in million dollars
+6	Unit sales	unit sales in (millions) in stores quanity
+7	Promotion name	promotion name done on media
+8	Sales country	country where sales happen
+9	Marital status	marital status of customers
+10	Gender	gender of customers
+11	Total childern	total children in home
+12	Education	education level of customer
+13	Member card	memver card avialable for customer
+14	Occupation	occupation of customer
+15	Houseowner	customer is houseowner or not
+16	Avg cars at home	avg cars at home(approx)
+17	Avg . Yearly Income	range of yearly income as per customers filled details
+18	Num childern at home	no. childs as per customers filled details
+19	Brand name	brand name of the product
+20	SRP	SRP or MRP of the item
+21	Gross weight	gross weight of item
+22	Net Weight	net weight of item
+23	Recyclable package	food item is recyclable package or not
+24	Low fat	food item is low fat or not
+25	Units per case	units/case units available in each stores shelves
+26	Store type	store type available
+27	Store city	store available in city
+28	Store state	store present in which state
+29	Store sqft	store area available in sqft
+30	Grocery sqft	grocery area available in sqft
+31	Frozen sqft	frozen food area available in sqft
+32	Meat sqft	meat area available in sqft
+33	Coffee bar	coffee bar available in store
+34	Video store 	video store/gaming store available
+35	Salad bar	salad bar availble in store
+36	Prepared food	food prepared available in store
+37	Florist	flower shelves available in store
+38	Media Type	media source used for promotion
+39	Cost	cost on acquiring a customers in dollars
